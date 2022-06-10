@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>756</width>
+    <height>546</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>图像视频处理</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>images/视频.png</normaloff>images/视频.png</iconset>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTreeWidget" name="treeWidget">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>191</width>
+      <height>431</height>
+     </rect>
+    </property>
+    <property name="columnCount">
+     <number>1</number>
+    </property>
+    <column>
+     <property name="text">
+      <string notr="true"/>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>images/自定义.png</normaloff>images/自定义.png</iconset>
+     </property>
+    </column>
+    <item>
+     <property name="text">
+      <string>图像处理</string>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>images/图片 (1).png</normaloff>images/图片 (1).png</iconset>
+     </property>
+     <item>
+      <property name="text">
+       <string>图像压缩预设分辨率</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>images/预设运价.png</normaloff>images/预设运价.png</iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>自定义分辨率(图像)</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>images/组件-自定义.png</normaloff>images/组件-自定义.png</iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>图像裁剪</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>images/剪切.png</normaloff>images/剪切.png</iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>图像水印</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>images/m-水印.png</normaloff>images/m-水印.png</iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>图像水印(图片）</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>images/m-水印 (1).png</normaloff>images/m-水印 (1).png</iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>图像缩放</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>images/缩放窗口.png</normaloff>images/缩放窗口.png</iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>LSB水印算法</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>images/lsb.png</normaloff>images/lsb.png</iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>DCT水印算法</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>images/dct.png</normaloff>images/dct.png</iconset>
+      </property>
+     </item>
+    </item>
+    <item>
+     <property name="text">
+      <string>视频处理</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>images/视频 (1).png</normaloff>images/视频 (1).png</iconset>
+     </property>
+     <item>
+      <property name="text">
+       <string>视频压缩</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>images/视频压缩.png</normaloff>images/视频压缩.png</iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>视频水印</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>images/视频去水印.png</normaloff>images/视频去水印.png</iconset>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>视频水印(图片)</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>images/去水印.png</normaloff>images/去水印.png</iconset>
+      </property>
+     </item>
+    </item>
+    <item>
+     <property name="text">
+      <string>批量处理</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normaloff>images/批量采卡.png</normaloff>images/批量采卡.png</iconset>
+     </property>
+     <item>
+      <property name="text">
+       <string>图像批量处理</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>images/图像_images19.png</normaloff>images/图像_images19.png</iconset>
+      </property>
+      <item>
+       <property name="text">
+        <string>图像批量压缩</string>
+       </property>
+       <property name="icon">
+        <iconset>
+         <normaloff>images/推广渠道.png</normaloff>images/推广渠道.png</iconset>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>图像批量水印(文字)</string>
+       </property>
+       <property name="icon">
+        <iconset>
+         <normaloff>images/水.png</normaloff>images/水.png</iconset>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>图像批量水印(图片)</string>
+       </property>
+       <property name="icon">
+        <iconset>
+         <normaloff>images/水滴.png</normaloff>images/水滴.png</iconset>
+       </property>
+      </item>
+     </item>
+     <item>
+      <property name="text">
+       <string>视频批量处理</string>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>images/视频合集.png</normaloff>images/视频合集.png</iconset>
+      </property>
+      <item>
+       <property name="text">
+        <string>视频批量压缩</string>
+       </property>
+       <property name="icon">
+        <iconset>
+         <normaloff>images/渠道管理.png</normaloff>images/渠道管理.png</iconset>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>视频批量水印(文字)</string>
+       </property>
+       <property name="icon">
+        <iconset>
+         <normaloff>images/水 (1).png</normaloff>images/水 (1).png</iconset>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>视频批量水印(图片)</string>
+       </property>
+       <property name="icon">
+        <iconset>
+         <normaloff>images/血,血液,水,水滴.png</normaloff>images/血,血液,水,水滴.png</iconset>
+       </property>
+      </item>
+     </item>
+    </item>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>756</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu">
+    <property name="title">
+     <string>文件</string>
+    </property>
+    <addaction name="actionSelectFile"/>
+   </widget>
+   <widget class="QMenu" name="menu_2">
+    <property name="title">
+     <string>关于</string>
+    </property>
+    <addaction name="actionExit"/>
+   </widget>
+   <addaction name="menu"/>
+   <addaction name="menu_2"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionSelectFile"/>
+   <addaction name="actionExit"/>
+  </widget>
+  <action name="actionSelectFile">
+   <property name="icon">
+    <iconset>
+     <normaloff>images/文件夹-打开-没文件.png</normaloff>images/文件夹-打开-没文件.png</iconset>
+   </property>
+   <property name="text">
+    <string>输出文件</string>
+   </property>
+   <property name="priority">
+    <enum>QAction::NormalPriority</enum>
+   </property>
+  </action>
+  <action name="actionExit">
+   <property name="icon">
+    <iconset>
+     <normaloff>images/退出 (1).png</normaloff>images/退出 (1).png</iconset>
+   </property>
+   <property name="text">
+    <string>退出</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

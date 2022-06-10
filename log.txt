@@ -1,0 +1,12 @@
+2022-05-28 19:53:34.413274	DCT水印隐写	C:/Users/ASUS/Desktop/DCT文字/DCT_origin.bmp	C:/Users/ASUS/Desktop/DCT文字/DCT_origin20220528195334413274.bmp
+2022-05-28 19:56:28.820269	DCT水印隐写	C:/Users/ASUS/Desktop/DCT/DCT_origin.bmp	C:/Users/ASUS/Desktop/DCT_origin20220528195628820269.bmp
+2022-05-28 20:10:29.350602	DCT水印隐写	C:/Users/ASUS/Desktop/DCT/DCT_origin.bmp	C:/Users/ASUS/Desktop/DCT/DCT_origin20220528201029350602.bmp
+2022-05-28 20:10:56.736190	DCT水印提取	C:/Users/ASUS/Desktop/DCT/DCT_origin20220528201029350602.bmp	C:/Users/ASUS/Desktop/DCT
+2022-05-28 20:14:26.229501	DCT水印隐写	C:/Users/ASUS/Desktop/DCT/DCT_origin.bmp	C:/Users/ASUS/Desktop/DCT/DCT_origin20220528201426229501.bmp
+2022-05-28 20:14:44.873375	DCT水印提取	C:/Users/ASUS/Desktop/DCT/DCT_origin20220528201426229501.bmp	C:/Users/ASUS/Desktop/DCT
+2022-05-28 20:15:56.505009	DCT水印隐写	C:/Users/ASUS/Desktop/DCT/DCT_origin.bmp	C:/Users/ASUS/Desktop/DCT/DCT_origin20220528201556505009.bmp
+2022-05-28 20:16:13.417668	DCT水印提取	C:/Users/ASUS/Desktop/DCT/DCT_origin20220528201556505009.bmp	C:/Users/ASUS/Desktop/DCT
+2022-05-28 20:19:01.423940	DCT水印隐写	C:/Users/ASUS/Desktop/DCT/random_interval_origin.bmp	C:/Users/ASUS/Desktop/DCT/random_interval_origin20220528201901423940.bmp
+2022-05-28 20:19:24.436398	DCT水印提取	C:/Users/ASUS/Desktop/DCT/random_interval_origin20220528201901423940.bmp	C:/Users/ASUS/Desktop/DCT
+2022-05-28 20:21:11.267267	DCT水印隐写	C:/Users/ASUS/Desktop/DCT/DCT_origin.bmp	C:/Users/ASUS/Desktop/DCT/DCT_origin20220528202111267267.bmp
+2022-05-28 20:21:27.646402	DCT水印提取	C:/Users/ASUS/Desktop/DCT/DCT_origin20220528202111267267.bmp	C:/Users/ASUS/Desktop/DCT
